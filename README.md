@@ -1,2 +1,2 @@
-# run-python
-Run Python via Alfred
+# alfred-run-python
+Executes python3 argument in terminal
