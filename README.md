@@ -4,6 +4,8 @@ Executes python3 argument in terminal through Alfred search
 Developed by Harrison Goeldner
 Version 1.0
 
+Icon made by Freepik from www.flaticon.com
+
 ## Compatibility
 Tested on MacOS Catilina (10.15.7)
 Needs [Alfred 4](https://www.alfredapp.com/) to work
