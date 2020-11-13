@@ -9,6 +9,7 @@ Icon made by Freepik from www.flaticon.com
 ## Compatibility
 Tested on MacOS Catilina (10.15.7)
 Needs [Alfred 4](https://www.alfredapp.com/) to work
+Requires Python 3 to be installed
 
 ## Usage
 
